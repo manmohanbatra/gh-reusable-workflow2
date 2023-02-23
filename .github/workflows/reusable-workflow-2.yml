@@ -15,4 +15,4 @@ jobs:
 
       - name: Write something to Log
         run: |
-          echo "I am Reusable Workflow Two - specific SHA"
+          echo "I am Reusable Workflow Two - on Main Branch"
